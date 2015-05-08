@@ -26,7 +26,7 @@ public class AlarmActivity extends ActionBarActivity {
             public void onClick(View v) {
                 vibrator.cancel();
                 stopService(new Intent(getApplicationContext(), AlarmService.class));
-                /*sssssssssssssssss*/
+                /*ssssssssssss666666sssss*/
             }
         });
     }
